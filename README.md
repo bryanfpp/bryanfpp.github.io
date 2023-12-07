@@ -5,3 +5,4 @@ este archivo es para mostar mi primera pagina web
 -por que estudio tics?
 -de donde vengo?
 -Mis intereses
+-Mis hobbis
